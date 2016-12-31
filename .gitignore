@@ -88,3 +88,8 @@ ENV/
 # Rope project settings
 .ropeproject
 .idea/
+
+#add by anla7856
+.settings
+.project
+.pydevproject
